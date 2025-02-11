@@ -1,0 +1,24 @@
+{
+    "label":"GBA",
+    "icon":"gba-big.png",
+    "iconsmall":"gba-medium.png",
+    "iconlist":"gba-small.png",
+    "background":"gba.png",
+    "launch":"launch.sh",
+    "rompath":"../../Roms/GBA",
+    "imgpath":"../../Roms/GBA/Imgs",
+    "useswap":0,
+    "shortname":0,
+    "hidebios":1,
+    "extlist":"gba|agb|gbz|zip|7z",
+    "launchlist": [
+        {
+            "name": "gPSP",
+            "launch": "launch_gpsp.sh"
+        },
+        {
+            "name": "mGBA",
+            "launch": "launch.sh"
+        }
+    ]
+}

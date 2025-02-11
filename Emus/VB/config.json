@@ -1,0 +1,14 @@
+{
+"label":"VIRTUALBOY",
+"icon":"vboy-big.png",
+"iconsmall":"vboy-medium.png",
+"iconlist":"vboy-small.png",
+"background":"virtualboy.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/VB",
+"imgpath":"../../Roms/VB/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"vb"
+}

@@ -1,0 +1,14 @@
+{
+"label":"ARDUBOY",
+"icon":"arduino-big.png",
+"iconsmall":"arduino-medium.png",
+"iconlist":"arduino-small.png",
+"background":"arduboy.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ARDUBOY",
+"imgpath":"../../Roms/ARDUBOY/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"hex|zip"
+}

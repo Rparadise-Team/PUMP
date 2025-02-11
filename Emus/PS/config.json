@@ -1,0 +1,14 @@
+{
+"label":"PLAYSTATION",
+"icon":"ps-big.png",
+"iconsmall":"ps-medium.png",
+"iconlist":"ps-small.png",
+"background":"psx.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PS",
+"imgpath":"../../Roms/PS/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"bin|cue|img|mdf|pbp|toc|cbn|m3u|chd|BIN|PBP"
+}

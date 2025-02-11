@@ -1,0 +1,14 @@
+{
+"label":"OPENBOR",
+"icon":"openbor-big.png",
+"iconsmall":"openbor-medium.png",
+"iconlist":"openbor-small.png",
+"background":"openbor.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/OPENBOR",
+"imgpath":"../../Roms/OPENBOR/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":"pak|Pak|PAK"
+}

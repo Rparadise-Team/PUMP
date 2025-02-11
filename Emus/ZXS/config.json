@@ -1,0 +1,14 @@
+{
+"label":"SPECTRUM",
+"icon":"zxs-big.png",
+"iconsmall":"zxs-medium.png",
+"iconlist":"zxs-small.png",
+"background":"zxspectrum.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ZXS",
+"imgpath":"../../Roms/ZXS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"zip|7z|dsk|z80"
+}

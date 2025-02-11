@@ -1,0 +1,14 @@
+{
+"label":"FDS",
+"icon":"fds-big.png",
+"iconsmall":"fds-medium.png",
+"iconlist":"fds-small.png",
+"background":"fds.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FDS",
+"imgpath":"../../Roms/FDS/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"nes|fds|unf|unif|zip|7z"
+}

@@ -1,0 +1,14 @@
+{
+"label":"TIC-80",
+"icon":"tic80-big.png",
+"iconsmall":"tic80-medium.png",
+"iconlist":"tic80-small.png",
+"background":"tic-80.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/TIC",
+"imgpath":"../../Roms/TIC/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"tic"
+}

@@ -1,0 +1,14 @@
+{
+"label":"ATARI5200",
+"icon":"5200-big.png",
+"iconsmall":"5200-medium.png",
+"iconlist":"5200-small.png",
+"background":"atari5200.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/FIFTYTWOHUNDRED",
+"imgpath":"../../Roms/FIFTYTWOHUNDRED/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin|a52"
+}

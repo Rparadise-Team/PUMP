@@ -1,0 +1,14 @@
+{
+"label":"SG-1000",
+"icon":"sg1000-big.png",
+"iconsmall":"sg1000-medium.png",
+"iconlist":"sg1000-small.png",
+"background":"sg-1000.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGASGONE",
+"imgpath":"../../Roms/SEGASGONE/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gen|md|smd|32x|zip|7z"
+}

@@ -1,0 +1,9 @@
+{
+"package":"com.retroarch.dummy",
+"label":"RetroArch SDL",
+"label.ch.lang":"启动全能模拟器SDL版本",
+"icon":"icon.png",
+"iconsel":"icon.png",
+"launch":"launch.sh",
+"description":"Boot RetroArch SDL"
+}

@@ -1,0 +1,14 @@
+{
+"label":"C64",
+"icon":"c64-big.png",
+"iconsmall":"c64-medium.png",
+"iconlist":"c64-small.png",
+"background":"c64.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/C64",
+"imgpath":"../../Roms/C64/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"crt|zip|7z"
+}

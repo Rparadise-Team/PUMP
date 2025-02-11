@@ -1,0 +1,14 @@
+{
+"label":"DOOM",
+"icon":"doom-big.png",
+"iconsmall":"doom-medium.png",
+"iconlist":"doom-small.png",
+"background":"doom.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/DOOM",
+"imgpath":"../../Roms/DOOM/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"wad"
+}

@@ -1,0 +1,14 @@
+{
+"label":"MS-DOS",
+"icon":"dos-big.png",
+"iconsmall":"dos-medium.png",
+"iconlist":"dos-small.png",
+"background":"msdos.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/DOS",
+"imgpath":"../../Roms/DOS/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"dosz"
+}

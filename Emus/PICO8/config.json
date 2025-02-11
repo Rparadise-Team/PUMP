@@ -1,0 +1,24 @@
+{
+"label":"PICO8",
+"icon":"pico8-big.png",
+"iconsmall":"pico8-medium.png",
+"iconlist":"pico8-small.png",
+"background":"pico8.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PICO",
+"imgpath":"../../Roms/PICO/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":1,
+"extlist":"p8",
+"launchlist": [
+    {
+        "name": "Fake-08",
+        "launch": "launch.sh"
+    },
+    {
+        "name": "Retro8",
+        "launch": "launch_retro8.sh"
+    }
+]
+}

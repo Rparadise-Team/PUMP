@@ -1,0 +1,14 @@
+{
+"label":"GAMEGEAR",
+"icon":"gg-big.png",
+"iconsmall":"gg-medium.png",
+"iconlist":"gg-small.png",
+"background":"gamegear.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/GG",
+"imgpath":"../../Roms/GG/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"gg|zip|7z"
+}

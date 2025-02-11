@@ -1,0 +1,32 @@
+{
+"label":"MAME",
+"icon":"mame-big.png",
+"iconsmall":"mame-medium.png",
+"iconlist":"mame-small.png",
+"background":"mame.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MAME",
+"imgpath":"../../Roms/MAME/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip",
+"launchlist": [
+        {
+            "name": "MAME 2003 Plus",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "KM MAME 2003 EXTREME",
+            "launch": "launch_km_mame2003_xtreme.sh"
+        },
+        {
+            "name": "MAME 2000",
+            "launch": "launch_mame2000.sh"
+        },
+        {
+            "name": "MAME 2010",
+            "launch": "launch_mame2010.sh"
+        }
+    ]
+}

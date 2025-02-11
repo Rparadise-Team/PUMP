@@ -1,0 +1,25 @@
+{
+"label":"LYNX",
+"icon":"lynx-big.png",
+"iconsmall":"lynx-medium.png",
+"iconlist":"lynx-small.png",
+"background":"atarilynx.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/LYNX",
+"imgpath":"../../Roms/LYNX/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"lnx|zip|7z",
+"launchlist": [
+
+    {
+        "name": "Handy",
+        "launch": "launch_handy.sh"
+    },
+    {
+		"name": "Beetle-LYNX",
+        "launch": "launch_beetle.sh"
+    }
+]
+}

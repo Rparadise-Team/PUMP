@@ -1,0 +1,14 @@
+{
+"label":"SCUMMVM",
+"icon":"scummvm-big.png",
+"iconsmall":"scummvm-medium.png",
+"iconlist":"scummvm-small.png",
+"background":"scummvm.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SCUMMVM",
+"imgpath":"../../Roms/SCUMMVM/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"scummvm"
+}

@@ -1,0 +1,14 @@
+{
+"label":"MSX",
+"icon":"msx-big.png",
+"iconsmall":"msx-medium.png",
+"iconlist":"msx-small.png",
+"background":"msx.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MSX",
+"imgpath":"../../Roms/MSX/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"7z|zip|rom|dsk"
+}

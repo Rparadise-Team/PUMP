@@ -1,0 +1,14 @@
+{
+"label":"SGB",
+"icon":"sgb-big.png",
+"iconsmall":"sgb-medium.png",
+"iconlist":"sgb-small.png",
+"background":"sgb.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SGB",
+"imgpath":"../../Roms/SGB/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"gb|zip|7z"
+}

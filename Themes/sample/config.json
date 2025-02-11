@@ -1,0 +1,24 @@
+{
+    "name":"sample_theme",
+    "font":"HYZhengYuan-95W.ttf",
+    "fontascii":"BPreplayBold.otf",
+    "fontsize":{
+        "title":18,
+        "statbar":17,
+        "list":16
+    },
+    "fontcolor":{
+        "title":"#F0F0F0",
+        "shadow":"#000000",
+        "statbar":"#F0F0F0",
+        "list":"#D2AC73",
+        "listsel":"#F0F0F0",
+        "iconlist":"#D2AC73",
+        "iconlistsel":"#D2AC73",
+        "notify":"#000000",
+        "popup":"#F0F0F0",
+        "popupsel":"#684618",
+	"highlight":"#F00024",
+	"subtext":"#686868"
+    }
+} 

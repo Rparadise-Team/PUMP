@@ -1,0 +1,27 @@
+{
+"label":"NEOGEO",
+"icon":"neogeo-big.png",
+"iconsmall":"neogeo-medium.png",
+"iconlist":"neogeo-small.png",
+"background":"neogeo.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/NEOGEO",
+"imgpath":"../../Roms/NEOGEO/Imgs",
+"gamelist":"../../Roms/NEOGEO/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip",
+"launchlist": [
+    {
+	"name": "FBA2012 NEOGEO",
+        "launch": "launch.sh"
+       
+    },
+    {
+        "name": "FBNEO",
+        "launch": "launch_fbneo.sh"
+    }
+]
+
+}

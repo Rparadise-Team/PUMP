@@ -1,0 +1,14 @@
+{
+"label":"PORTS",
+"icon":"ports-big.png",
+"iconsmall":"ports-medium.png",
+"iconlist":"ports-small.png",
+"background":"ports.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/PORTS",
+"imgpath":"../../Roms/PORTS/Imgs",
+"useswap":1,
+"shortname":1,
+"hidebios":0,
+"extlist":"port"
+}

@@ -1,0 +1,24 @@
+{
+"label":"SEGA-CD",
+"icon":"segacd-big.png",
+"iconsmall":"segacd-medium.png",
+"iconlist":"segacd-small.png",
+"background":"segacd.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SEGACD",
+"imgpath":"../../Roms/SEGACD/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"chd",
+"launchlist": [
+        {
+            "name": "PICODRIVE",
+            "launch": "launch.sh"
+        },
+        {
+            "name": "GENESIS PLUS DX",
+            "launch": "launch_genplus.sh"
+        }
+    ]
+}

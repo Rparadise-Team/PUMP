@@ -1,0 +1,15 @@
+{
+"label":"CPS3",
+"icon":"cps3-big.png",
+"iconsmall":"cps3-medium.png",
+"iconlist":"cps3-small.png",
+"background":"cps3.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/CPS3",
+"imgpath":"../../Roms/CPS3/Imgs",
+"gamelist":"../../Roms/CPS3/gamelist.xml",
+"useswap":1,
+"shortname":1,
+"hidebios":1,
+"extlist":"zip"
+}

@@ -1,0 +1,14 @@
+{
+"label":"QUAKE",
+"icon":"quake-big.png",
+"iconsmall":"quake-medium.png",
+"iconlist":"quake-small.png",
+"background":"quake.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/QUAKE",
+"imgpath":"../../Roms/QUAKE/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"fbl"
+}

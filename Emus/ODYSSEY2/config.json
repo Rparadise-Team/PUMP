@@ -1,0 +1,14 @@
+{
+"label":"ODYSSEY2",
+"icon":"ody-big.png",
+"iconsmall":"ody-medium.png",
+"iconlist":"ody-small.png",
+"background":"odyssey2.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/ODYSSEY2",
+"imgpath":"../../Roms/ODYSSEY2/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"bin"
+}

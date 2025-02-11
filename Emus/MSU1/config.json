@@ -1,0 +1,14 @@
+{
+"label":"MSU1",
+"icon":"msu1-big.png",
+"iconsmall":"msu1-medium.png",
+"iconlist":"msu1-small.png",
+"background":"snesmsu1.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/MSU1",
+"imgpath":"../../Roms/MSU1/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":0,
+"extlist":"smc|sfc|zip|7z"
+}

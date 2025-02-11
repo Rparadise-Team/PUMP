@@ -1,0 +1,14 @@
+{
+"label":"WOLF-3D",
+"icon":"wolf3d-big.png",
+"iconsmall":"wolf3d-medium.png",
+"iconlist":"wolf3d-small.png",
+"background":"Wolfenstein 3d.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/WOLF3D",
+"imgpath":"../../Roms/WOLF3D/Imgs",
+"useswap":1,
+"shortname":0,
+"hidebios":0,
+"extlist":"ecwolf"
+}

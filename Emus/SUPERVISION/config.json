@@ -1,0 +1,14 @@
+{
+"label":"SUPERVISION",
+"icon":"sup-big.png",
+"iconsmall":"sup-medium.png",
+"iconlist":"sup-small.png",
+"background":"supervision.png",
+"launch":"launch.sh",
+"rompath":"../../Roms/SUPERVISION",
+"imgpath":"../../Roms/SUPERVISION/Imgs",
+"useswap":0,
+"shortname":0,
+"hidebios":1,
+"extlist":"sv|zip|7z"
+}
